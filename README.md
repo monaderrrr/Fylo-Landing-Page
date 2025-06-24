@@ -2,7 +2,6 @@
 
 ## Live_Demo:
 https://monaderrrr.github.io/Fylo-Landing-Page/
-<-- Mohamed Nader Rashad -->
 
 ### Screenshot
 
